@@ -1,0 +1,179 @@
+*{
+    padding :0;
+    margin :0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.head{
+    background: #2065ca;
+    color: white;
+    padding-left: 100px;
+    width: 100%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.logoarea{
+    width: 100%;
+    color: #2065ca;
+    text-align: center;
+    margin-top: 2px;
+   
+}
+
+.logoarea img{
+   height: 130px; 
+   
+}
+
+.logoarea button{
+    margin-top: 20px;
+    border-radius: 5px;
+    color: white;
+    background: #2065ca;
+    padding: 4px 5px;
+    border: none;
+    margin-left: 10px;
+    font-size: 14px;
+}
+.logoarea button:hover{
+    background: #77a6ec;
+   
+}
+.navbar{
+    float: left;
+    background:#2065ca ;
+    width: 100%;
+    
+}
+.navbar button{
+    margin: 8px 8px;
+}
+.images{
+    width: 100%;
+}
+.images img{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.about{
+    width: 100%;
+    color: white;
+    background:#eceeef;
+   
+}
+.about img{
+    width: 100%;
+}
+.d1{
+    background: #004799;
+    margin-right: 0;
+    padding: 20px 20px;
+    height: 100%;
+}
+.d2{
+    background: #004799;
+    width: 100%;
+    height: 100%;
+    padding: 9px;
+}
+.d3{
+    background: #0e3063;
+    width: 100%;
+    height: 100%;
+}
+.news{
+    text-align: center;
+    margin: 30px 30px;
+
+}
+.news h1{
+    padding-bottom: 30px;
+}
+.content{
+    background: #2065ca;
+    width: 100%;  
+    color: white;
+    text-align: center;
+    
+  
+}
+.top{
+    margin-bottom: 220px;
+    padding-top: 70px;
+}
+#mid{
+    margin-top: 210px;
+    padding-bottom: 70px;
+    
+}
+
+.content img{
+    width: 100%;
+    height: 100%;
+}
+.content:hover{
+    background: white;
+    color: black;
+}
+.gallery{
+    width: 100%;
+    background: #eceeef;
+    
+    text-align: center;
+    padding-top: 15px;
+    
+  
+}
+.gallery img{
+    width: 100%; 
+    padding-bottom: 15px;
+}
+.gallery h4{
+    margin-bottom: 40px;
+}
+.gallery h2{
+    margin-top: 40px;
+}
+.event{
+    text-align: center;
+    width: 100%;
+    
+}
+.event img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.even{
+    margin: 40px;
+}
+.foot{
+    width: 100%;
+    float: left;
+    background: #1663d8;
+    color: #eceeef;
+    
+}
+.foot img{
+    float: left;
+    height: 130px;
+    margin-top: 33px;
+    
+}
+.foot p{
+    margin-top: 30px;
+   
+}
+.foot a{
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+}
+.foot a:hover{
+    text-decoration: underline;
+}
+.ds{
+    border: solid 1px black;
+    text-align: center;
+    padding: 8px;
+    margin: 50px 50px;
+}
